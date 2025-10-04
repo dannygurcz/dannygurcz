@@ -45,17 +45,9 @@ I merge creativity with logic — designing experiences that don’t just look g
   </a>
 </p>
 
-<details>
-  <summary>🧩 <b>See More Projects</b></summary>
-  <p align="center">
-    <a href="https://github.com/dannygurcz/food-delivery-app">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannygurcz&repo=food-delivery-app&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/dannygurcz/portfolio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannygurcz&repo=portfolio&theme=tokyonight" />
-    </a>
-  </p>
-</details>
+<p align="center">
+  🔗 <a href="https://danielgurczynski.com/portfolio" target="_blank"><b>See more projects at danielgurczynski.com</b></a>
+</p>
 
 ---
 
@@ -79,8 +71,6 @@ I merge creativity with logic — designing experiences that don’t just look g
 
 **Core Skills:**  
 React · Next.js · Node.js · Express · Figma · Docker · AWS · PostgreSQL  
-
-📄 [**Download Résumé (PDF)**](https://danielgurczynski.com/resume)  
 
 ---
 
