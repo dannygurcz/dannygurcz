@@ -37,16 +37,7 @@ I merge creativity with logic — designing experiences that don’t just look g
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/dannygurcz/fintech-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannygurcz&repo=fintech-dashboard&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/dannygurcz/social-commerce-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dannygurcz&repo=social-commerce-platform&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  🔗 <a href="https://danielgurczynski.com/portfolio" target="_blank"><b>See more projects at danielgurczynski.com</b></a>
+  🔗 <a href="https://danielgurczynski.com/portfolio" target="_blank"><b>See featured projects at danielgurczynski.com</b></a>
 </p>
 
 ---
